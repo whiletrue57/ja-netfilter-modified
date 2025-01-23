@@ -66,3 +66,6 @@ Linux系统可在下列路径中查找并删除：
 - [ja-netfilter power插件原理](https://www.xuzhengtong.com/2022/07/25/ja-netfilter/ja-netfilter-plugins-power/) 
 - [分析ja-netfilter如何破解jetbrains的IDE - 知乎](https://zhuanlan.zhihu.com/p/494706735?ssr_src=heifetz)
 
+---
+# 注意
+2024以后的版本，国家选择未指定路径：设置-》外观与行为-》系统设置-》语言和地区
